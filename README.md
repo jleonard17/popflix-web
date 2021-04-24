@@ -1,2 +1,2 @@
-<h1> pop shove a movie in ur ass mate </h1>
-<h2> ya grandma get her movies from here ;) </h2>
+<h1> POPFLIX </h1> 
+<h2> simple web app for saving your favorite movies </h2>
